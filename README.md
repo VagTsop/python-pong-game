@@ -26,8 +26,6 @@ To run the game locally, follow these steps:
 3. Install the Pygame library using pip:
 pip install pygame
 
-vbnet
-Copy code
 4. Navigate to the cloned directory and run the `pong_game.py` file.
 
 ## Usage
