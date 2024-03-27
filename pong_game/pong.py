@@ -567,10 +567,7 @@ class PongGame:
         credit_lines = [
             "Thank you for playing!",
             "Game developed by",
-            "Tsopanos Vagelis",
-            "Xatzistefanou Grigorios",
-            "Siouta Stefania",
-            "Stafilidis Savas",
+            "..."
             "Music Credits Song Name",
             "Composer Composer Name",
             "Graphics Graphic Designer Name"
